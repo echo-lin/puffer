@@ -3,6 +3,7 @@ This is a password management tool.
 
 # Overview of Tool Commands：
 
+```markdown
 Usage:
   puffer [command]
 
@@ -19,6 +20,7 @@ Flags:
   -t, --toggle          Help message for toggle
 
 Use "puffer [command] --help" for more information about a command.
+```
 
 
 Using this password management tool requires computer administrator privileges, so you will need to enter your password.Otherwise, When executing “puffer add”, the following error occurs：
