@@ -1,0 +1,3 @@
+account_file:
+    direct: store
+    file_name: .account.p

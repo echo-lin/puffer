@@ -1,0 +1,1 @@
+[{"domain":"a.com","username":"lin","password":"123","Desc":"this is a account"},{"domain":"a.com","username":"lin2","password":"123","Desc":""},{"domain":"b.com","username":"lin","password":"123","Desc":"this is a account for b.com"},{"domain":"a.com","username":"lin5","password":"123","Desc":"哈哈哈"}]
